@@ -1,3 +1,3 @@
 # image
 
-![Architecture](https://github.com/yuko1113/main/architecture.png) 
+![Architecture](https://github.com/yuko1113/image/main/architecture.png) 
