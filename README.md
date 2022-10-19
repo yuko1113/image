@@ -22,7 +22,6 @@
 - [Prisma](https://www.prisma.io/): 4.3.1
 - [MySQL](https://www.mysql.com/jp/): 8.0
 - [Docker](https://www.docker.com/): 20.10.17
-- [Docker compose](https://www.docker.com/): 20.10.17
 - [Stripe](https://stripe.com/jp): 10.11.0
 - [AWS EC2,RDS,S3](https://aws.amazon.com/jp/)
 
